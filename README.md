@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roman Nesterov
 - 👀 I’m interested in Android Developing
-- 🌱 I’m currently learning Java and Kotlin for Android
+- 🌱 I’m currently developing in Java and Kotlin for Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 galeopsis@mail.ru
 
